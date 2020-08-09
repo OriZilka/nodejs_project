@@ -1,19 +1,15 @@
 {
-  "name": "npm-demo",
+  "name": "node-app",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "keywords": [],
   "dependencies": {
-    "mongoose": "^5.9.27",
-    "underscore": "^1.10.2"
-  },
-  "devDependencies": {
-    "jshint": "^2.12.0"
-  },
-  "description": ""
+    "lion-lib-orizilka": "^1.0.0"
+  }
 }
